@@ -84,6 +84,7 @@
 + [e2e-ie-release] https://github.com/rasmusbergpalm/e2e-ie-release
 + [OpenNRE] https://github.com/thunlp/OpenNRE
 + [CausalityEventExraction] https://github.com/liuhuanyong/CausalityEventExtraction
++ [MITIE] https://github.com/mit-nlp/MITIE
 #### 聊天机器人
 + [multiwoz] https://github.com/budzianowski/multiwoz
 + [awesome-chatbot] https://github.com/BUPT/awesome-chatbot
@@ -137,6 +138,10 @@
 #### 知识图谱
 1. [scikit-kge]知识图谱嵌入 https://github.com/mnick/scikit-kge
 2. [Agriculture_KnowledgeGraph]农业知识图谱 https://github.com/qq547276542/Agriculture_KnowledgeGraph
+3. [KnowledgeGraph]知识图谱数据免费下载 https://github.com/ownthink/KnowledgeGraph
+4. [QASystemOnMedicalKG] 以疾病为中心的一定规模医药领域知识图谱 https://github.com/liuhuanyong/QASystemOnMedicalKG
+5. [neo4j-python-pandas-py2neo-v3] https://github.com/Skyellbin/neo4j-python-pandas-py2neo-v3
+6. [py2neo] https://github.com/technige/py2neo
 #### 关键字抽取
 + [flashtext] https://github.com/vi3k6i5/flashtext
 + [keyphrase-extraction] https://github.com/swisscom/ai-research-keyphrase-extraction
