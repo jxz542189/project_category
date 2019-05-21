@@ -206,6 +206,7 @@
 + [deepnlp] https://github.com/rockingdingo/deepnlp
 + [NLP_Code_Index] https://github.com/lancopku/NLP_Code_Index
 + [funNLP] https://github.com/fighting41love/funNLP 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取
++ [Jiagu] https://github.com/ownthink/Jiagu 深度学习自然语言处理工具 知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要
 #### 强化学习
 + [gym] https://github.com/openai/gym
 + [baselines] https://github.com/openai/baselines
@@ -246,6 +247,7 @@
 + [CodingInterviews] https://github.com/gatieme/CodingInterviews
 + [c-algorithms] https://github.com/fragglet/c-algorithms
 + [Learn-Algorithms] https://github.com/nonstriater/Learn-Algorithms
++ [Python] https://github.com/TheAlgorithms/Python
 #### 并发编程
 + [jug] https://github.com/luispedro/jug
 + [ray] https://github.com/ray-project/ray
@@ -291,6 +293,7 @@
 + [汽车行业用户观点主题及情感识别] https://github.com/yilirin/BDCI_Car_2018
 + [CDCS] https://github.com/geekinglcq/CDCS 竞赛项目收集
 + [CCF-BDCI-Automotive-Field-ASC-2018] https://github.com/nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018
++ [O2O-Coupon-Usage-Forecast] https://github.com/wepe/O2O-Coupon-Usage-Forecast
 #### skearn转为PMML
 + [sklearn2pmml] https://github.com/jpmml/sklearn2pmml
 #### sklearn包裹pytorch
@@ -361,6 +364,7 @@
 + [probability] https://github.com/tensorflow/probability
 + [pomegranate] https://github.com/jmschrei/pomegranate
 + [statsmodels] https://github.com/statsmodels/statsmodels
++ [altair] https://github.com/altair-viz/altair Declarative statistical visualization library
 #### 画图工具
 + [networkx] https://github.com/networkx/networkx
 + [pyecharts] https://github.com/pyecharts/pyecharts
@@ -373,9 +377,14 @@
 + [pyflux] https://github.com/RJT1990/pyflux
 #### 自动keras
 + [autokeras] https://github.com/jhfjhfj1/autokeras
+#### 有用工具
++ [PySnooper] https://github.com/cool-RR/PySnooper
 #### 无法归类
 + [DeepLearning-500-questions] https://github.com/scutan90/DeepLearning-500-questions
 + [书籍下载] https://github.com/KeKe-Li/book
 + [Top-Deep-Learning] https://github.com/mbadry1/Top-Deep-Learning
 #### 数据集
 + [dict_build] https://github.com/sing1ee/dict_build
++ [ChineseNlpCorpus] https://github.com/SophonPlus/ChineseNlpCorpus
+#### 面试
++ [Algorithm_Interview_Notes-Chinese] https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
