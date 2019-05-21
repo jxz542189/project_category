@@ -73,7 +73,7 @@
 + [DeepLearning_NLP] https://github.com/supercoderhawk/DeepLearning_NLP
 #### 文本生成
 + [Texar] https://github.com/asyml/texar
-#### 关系抽取
+#### 关系抽取和信息抽取
 + [foolnltk] https://github.com/rockyzhengwu/FoolNLTK
 + [PCNN] https://github.com/pencoa/PCNN
 + [triplets-extraction] https://github.com/zsctju/triplets-extraction
@@ -85,6 +85,13 @@
 + [OpenNRE] https://github.com/thunlp/OpenNRE
 + [CausalityEventExraction] https://github.com/liuhuanyong/CausalityEventExtraction
 + [MITIE] https://github.com/mit-nlp/MITIE
++ [Chinese-Knowledge-Triples-Extraction] https://github.com/Heavenlinguistics/Chinese-Knowledge-Triples-Extraction
++ [open-entity-relation-extraction] https://github.com/lemonhu/open-entity-relation-extraction 重点看一下
++ [EventTriplesExtraction] https://github.com/liuhuanyong/EventTriplesExtraction
++ [hello_world] https://github.com/blmoistawinde/hello_world 与HarvestText开源项目配套，社交网络 共指消解 指代消解
++ [HarvestText] https://github.com/blmoistawinde/HarvestText 领域自适应文本挖掘工具
++ [cocoNLP] 中文抽取工具 https://github.com/fighting41love/cocoNLP
++ [Entity-Relation-Extraction] https://github.com/yuanxiaosc/Entity-Relation-Extraction
 #### 聊天机器人
 + [multiwoz] https://github.com/budzianowski/multiwoz
 + [awesome-chatbot] https://github.com/BUPT/awesome-chatbot
@@ -136,12 +143,14 @@
 + [DeepInterestNetwork] https://github.com/zhougr1993/DeepInterestNetwork
 + [self-attentive-ncf] https://github.com/wubinzzu/self-attentive-ncf
 #### 知识图谱
-1. [scikit-kge]知识图谱嵌入 https://github.com/mnick/scikit-kge
-2. [Agriculture_KnowledgeGraph]农业知识图谱 https://github.com/qq547276542/Agriculture_KnowledgeGraph
-3. [KnowledgeGraph]知识图谱数据免费下载 https://github.com/ownthink/KnowledgeGraph
-4. [QASystemOnMedicalKG] 以疾病为中心的一定规模医药领域知识图谱 https://github.com/liuhuanyong/QASystemOnMedicalKG
-5. [neo4j-python-pandas-py2neo-v3] https://github.com/Skyellbin/neo4j-python-pandas-py2neo-v3
-6. [py2neo] https://github.com/technige/py2neo
++ [scikit-kge]知识图谱嵌入 https://github.com/mnick/scikit-kge
++ [Agriculture_KnowledgeGraph]农业知识图谱 https://github.com/qq547276542/Agriculture_KnowledgeGraph
++ [KnowledgeGraph]知识图谱数据免费下载 https://github.com/ownthink/KnowledgeGraph
++ [QASystemOnMedicalKG] 以疾病为中心的一定规模医药领域知识图谱 https://github.com/liuhuanyong/QASystemOnMedicalKG
++ [neo4j-python-pandas-py2neo-v3] https://github.com/Skyellbin/neo4j-python-pandas-py2neo-v3
++ [py2neo] https://github.com/technige/py2neo
++ [stock-knowledge-graph] https://github.com/lemonhu/stock-knowledge-graph
++ [TextGrapher] https://github.com/liuhuanyong/TextGrapher 根据文档生成图谱
 #### 关键字抽取
 + [flashtext] https://github.com/vi3k6i5/flashtext
 + [keyphrase-extraction] https://github.com/swisscom/ai-research-keyphrase-extraction
@@ -186,6 +195,7 @@
 #### 情感分析
 + [CharLSTM] https://github.com/charlesashby/CharLSTM
 + [SA-DL] https://github.com/songyouwei/SA-DL
++ [Customer_Satisfaction_Analysis] https://github.com/CarryChang/Customer_Satisfaction_Analysis
 #### 聚类
 + [DEC-Keras] https://github.com/fferroni/DEC-Keras
 + [mediods] https://github.com/alexprengere/medoids
@@ -195,6 +205,7 @@
 #### NLP代码
 + [deepnlp] https://github.com/rockingdingo/deepnlp
 + [NLP_Code_Index] https://github.com/lancopku/NLP_Code_Index
++ [funNLP] https://github.com/fighting41love/funNLP 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取
 #### 强化学习
 + [gym] https://github.com/openai/gym
 + [baselines] https://github.com/openai/baselines
@@ -218,10 +229,14 @@
 + [model/research] https://github.com/tensorflow/models/tree/master/research 多GPU实例代码
 + [100-Days-Of-ML-Code] https://github.com/Avik-Jain/100-Days-Of-ML-Code
 + [Tensorflow-examples] https://github.com/aymericdamien/TensorFlow-Examples
++ [hub] tensorflow模型复用 https://github.com/tensorflow/hub
++ [ranking] https://github.com/tensorflow/ranking 排序
 #### Tensorflow serving
 + [tensorflow-serving-tutorial] https://github.com/gyang274/tensorflow-serving-tutorial
 + [tensorflow-serving-example] https://github.com/yu-iskw/tensorflow-serving-example
 + [serving] https://github.com/tensorflow/serving
+#### 社区诊断
++ [python-louvain] https://github.com/taynaud/python-louvain
 #### 数据库
 + [pymysql] https://github.com/jxz542189/pymysql-connpool
 #### 数据结构和算法
@@ -274,6 +289,8 @@
 + [zhconv] https://github.com/gumblex/zhconv
 #### 竞赛
 + [汽车行业用户观点主题及情感识别] https://github.com/yilirin/BDCI_Car_2018
++ [CDCS] https://github.com/geekinglcq/CDCS 竞赛项目收集
++ [CCF-BDCI-Automotive-Field-ASC-2018] https://github.com/nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018
 #### skearn转为PMML
 + [sklearn2pmml] https://github.com/jpmml/sklearn2pmml
 #### sklearn包裹pytorch
@@ -322,6 +339,9 @@
 + [MMdnn] https://github.com/Microsoft/MMdnn
 #### 深度学习项目模板
 + [Tensorflow-Project-Template] https://github.com/MrGemy95/Tensorflow-Project-Template
+#### spark zookeeper
++ [kazoo] https://github.com/python-zk/kazoo
++ [docker-spark] https://github.com/big-data-europe/docker-spark
 #### 代码开发过程工具
 + [yapf] https://github.com/google/yapf
 + [isort] https://github.com/timothycrosley/isort
@@ -357,4 +377,5 @@
 + [DeepLearning-500-questions] https://github.com/scutan90/DeepLearning-500-questions
 + [书籍下载] https://github.com/KeKe-Li/book
 + [Top-Deep-Learning] https://github.com/mbadry1/Top-Deep-Learning
-
+#### 数据集
++ [dict_build] https://github.com/sing1ee/dict_build
