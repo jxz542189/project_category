@@ -134,6 +134,9 @@
 + [DeepCTR] https://github.com/shenweichen/DeepCTR
 + [DeepInterestNetwork] https://github.com/zhougr1993/DeepInterestNetwork
 + [self-attentive-ncf] https://github.com/wubinzzu/self-attentive-ncf
+#### 知识图谱
+1. [scikit-kge]知识图谱嵌入 https://github.com/mnick/scikit-kge
+2. [Agriculture_KnowledgeGraph]农业知识图谱 https://github.com/qq547276542/Agriculture_KnowledgeGraph
 #### 关键字抽取
 + [flashtext] https://github.com/vi3k6i5/flashtext
 + [keyphrase-extraction] https://github.com/swisscom/ai-research-keyphrase-extraction
