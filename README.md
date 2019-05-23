@@ -386,5 +386,6 @@
 #### 数据集
 + [dict_build] https://github.com/sing1ee/dict_build
 + [ChineseNlpCorpus] https://github.com/SophonPlus/ChineseNlpCorpus
++ [nlp_chinese_corpus] https://github.com/brightmart/nlp_chinese_corpus 中文大数据量
 #### 面试
 + [Algorithm_Interview_Notes-Chinese] https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
