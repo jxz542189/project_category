@@ -388,5 +388,6 @@
 + [ChineseNlpCorpus] https://github.com/SophonPlus/ChineseNlpCorpus
 + [nlp_chinese_corpus] https://github.com/brightmart/nlp_chinese_corpus 中文大数据量
 + [COER] https://github.com/TJUNLP/COER 实体抽取数据集
++ [Chinese-Literature-NER-RE-Dataset] 命名实体和关系抽取数据集 https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset/tree/master/relation_extraction/Training
 #### 面试
 + [Algorithm_Interview_Notes-Chinese] https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
